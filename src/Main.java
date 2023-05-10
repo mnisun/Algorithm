@@ -1,17 +1,64 @@
-// Press ⇧ twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
-public class Main {
-    public static void main(String[] args) {
-        // Press ⌥⏎ with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
-        System.out.println("Hello and welcomed!");
+/////////////////////////// 2023.05.11 /////////////////////////////
+// 1101
+//public class Main {
+//    public static void main(String[] args){
+//
+//        System.out.printf("Hello, World!");
+//
+//    }
+//}
 
-        // Press ⌃R or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
+// 1102
+//public class Main{
+//    public static void main(String[] args){
+//
+//        System.out.printf("Hello,\nWorld!");
+//
+//    }
+//}
 
-            // Press ⌃D to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing ⌘F8.
-            System.out.println("i = " + i);
-        }
-    }
-}
+// 1103
+//public class Main{
+//    public static void main(String[] args){
+//
+//        System.out.printf("\"c:\\test\"");
+//
+//    }
+//}
+
+// 1106
+//public class Main{
+//    public static void main(String[] args){
+//
+//    System.out.printf("-2147483648\t 2147483647");
+//
+//    }
+//}
+
+// 1107
+//public class Main{
+//    public static void main(String[] args){
+//
+//        int i;
+//
+//        for(i = 1; i <= 50; i ++){
+//            System.out.printf("print");
+//        }
+//    }
+//}
+
+// 1108
+//public class Main {
+//    public static void main(String[] args){
+//
+//        for(int i = 1; i <= 20; i++){
+//            System.out.printf("hello");
+//        }
+//        System.out.printf(" ");
+//        for(int j = 1; j <= 30; j++){
+//            System.out.printf("world");
+//        }
+//    }
+//}
+
+
