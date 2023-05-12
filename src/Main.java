@@ -61,4 +61,94 @@
 //    }
 //}
 
+/////////////////////////// 2023.05.12 /////////////////////////////
 
+//import java.util.Scanner;
+//
+//// 1109
+//public class Main{
+//    public static void main(String[] args){
+//
+//        Scanner sc = new Scanner(System.in);
+//
+//        String name; // 이름
+//        int age; // 나이
+//        String code; // 부서코드
+//        double key; // 보안키
+//
+//        name = sc.next();
+//        age = sc.nextInt();
+//        code = sc.next();
+//        key = sc.nextDouble();
+//
+//        System.out.println(name);
+//        System.out.println(age);
+//        System.out.println(code);
+//        System.out.println(key);
+//
+//    }
+//}
+
+//import java.util.Scanner;
+//
+//// 1110
+//public class Main{
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//
+//        int a;
+//
+//        a = sc.nextInt();
+//        System.out.println(a);
+//    }
+//}
+
+//import java.util.Scanner;
+//
+//// 1111
+//public class Main{
+//    public static void main(String[] args){
+//
+//        int a;
+//        Scanner sc = new Scanner(System.in);
+//
+//        a = sc.nextInt();
+//        System.out.println(a + "%");
+//    }
+//}
+
+//import java.util.Scanner;
+//
+//// 1112
+//public class Main {
+//    public static void main(String[] args){
+//
+//        Scanner sc = new Scanner(System.in);
+//
+//        int a, b;
+//
+//        a = sc.nextInt();
+//        b = sc.nextInt();
+//
+//        System.out.println(a + " " + b);
+//
+//    }
+//}
+
+//import java.util.Scanner;
+//
+//// 1113
+//public class Main{
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//
+//        int a, b;
+//
+//        a = sc.nextInt();
+//        b = sc.nextInt();
+//
+//        System.out.println(b + " " + a);
+//    }
+//}
+
+/////////////////////////// 2023.05. /////////////////////////////
