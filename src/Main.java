@@ -151,4 +151,74 @@
 //    }
 //}
 
-/////////////////////////// 2023.05. /////////////////////////////
+//import java.util.Scanner;
+
+/////////////////////////// 2023.05.17 /////////////////////////////
+// 1114
+//public class Main{
+//    public static void main(String[] args){
+//
+//        Scanner sc = new Scanner(System.in);
+//
+//        int a,b;
+//
+//        a = sc.nextInt();
+//        b = sc.nextInt();
+//
+//        System.out.println(a+b);
+//
+//    }
+//}
+
+//import java.util.Scanner;
+//
+//// 1115
+//public class Main {
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//
+//        long a, b;
+//        a = sc.nextLong();
+//        b = sc.nextLong();
+//
+//        System.out.println(a + b);
+//    }
+//}
+
+//import java.util.Scanner;
+//
+//// 1116
+//public class Main{
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//
+//        int a, b;
+//        a = sc.nextInt();
+//        b = sc.nextInt();
+//
+//        System.out.println(a + "+" + b + "=" + (a + b));
+//        System.out.println(a + "-" + b + "=" + + (a - b));
+//        System.out.println(a + "*" + b + "=" + + (a * b));
+//        System.out.println(a + "/" + b + "=" + + (a / b));
+//
+//    }
+//}
+
+//import java.util.Scanner;
+//
+//// 1117
+//public class Main{
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//
+//        double a, b;
+//
+//        a = sc.nextDouble();
+//        b = sc.nextDouble();
+//
+//        System.out.printf("%.2f", a*b);
+//
+//    }
+//}
+
+/////////////////////////// 2023.05.17 /////////////////////////////
