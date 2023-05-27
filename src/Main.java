@@ -221,4 +221,20 @@
 //    }
 //}
 
-/////////////////////////// 2023.05.17 /////////////////////////////
+//import java.util.Scanner;
+//
+///////////////////////////// 2023.05.28 /////////////////////////////
+//// 1118
+//public class Main{
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//        int a, b;
+//        float c;
+//
+//        a = sc.nextInt();
+//        b = sc.nextInt();
+//        c = (float)(a * b)/2;
+//
+//        System.out.printf("%.1f", c);
+//    }
+//}
