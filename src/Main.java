@@ -239,19 +239,19 @@
 //    }
 //}
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 ///////////////////////////// 2023.05.28 /////////////////////////////
 // 1119
-public class Main{
-    public static void main(String[] args){
-
-        Scanner sc = new Scanner(System.in);
-        int day = 24;
-        int a;
-        a = sc.nextInt();
-        a = a * day;
-        System.out.println(a);
-
-    }
-}
+//public class Main{
+//    public static void main(String[] args){
+//
+//        Scanner sc = new Scanner(System.in);
+//        int day = 24;
+//        int a;
+//        a = sc.nextInt();
+//        a = a * day;
+//        System.out.println(a);
+//
+//    }
+//}
