@@ -223,7 +223,7 @@
 
 //import java.util.Scanner;
 //
-///////////////////////////// 2023.05.28 /////////////////////////////
+///////////////////////////// 2023.05.27 /////////////////////////////
 //// 1118
 //public class Main{
 //    public static void main(String[] args){
@@ -238,3 +238,20 @@
 //        System.out.printf("%.1f", c);
 //    }
 //}
+
+import java.util.Scanner;
+
+///////////////////////////// 2023.05.28 /////////////////////////////
+// 1119
+public class Main{
+    public static void main(String[] args){
+
+        Scanner sc = new Scanner(System.in);
+        int day = 24;
+        int a;
+        a = sc.nextInt();
+        a = a * day;
+        System.out.println(a);
+
+    }
+}
