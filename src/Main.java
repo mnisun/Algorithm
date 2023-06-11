@@ -255,3 +255,58 @@
 //
 //    }
 //}
+
+//import java.util.Scanner;
+//
+/////////////////////////////// 2023.06.11 /////////////////////////////
+//// 1120
+//public class Main{
+//    public static void main(String[] args){
+//        int a,b,c;
+//        float d;
+//        Scanner sc = new Scanner(System.in);
+//
+//        a=sc.nextInt();
+//        b=sc.nextInt();
+//        c=sc.nextInt();
+//        d=(float)(a+b+c)/3;
+//
+//        System.out.printf("%.2f",d);
+//
+//    }
+//}
+
+//import java.util.Scanner;
+//
+//// 1121
+//public class Main{
+//    public static void main(String[] args){
+//        int a,b;
+//
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("피제수를 입력 : ");
+//        a=sc.nextInt();
+//        System.out.print("제수를 입력 : ");
+//        b=sc.nextInt();
+//
+//        System.out.println(a%b);
+//
+//    }
+//}
+
+//import java.util.Scanner;
+//
+//// 1122
+//public class Main{
+//    public static void main(String[] args){
+//
+//        int sec; // 초
+//        Scanner sc = new Scanner(System.in);
+//
+//        sec = sc.nextInt();
+//
+//        System.out.println(sec/60 + " " + sec%60);
+//
+//    }
+//}
+
