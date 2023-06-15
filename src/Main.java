@@ -310,3 +310,21 @@
 //    }
 //}
 
+import java.util.Scanner;
+
+/////////////////////////////// 2023.06.16 /////////////////////////////
+// 1123
+public class Main{
+    public static void main(String[] args){
+
+        int tempC;
+        float tempF;
+        Scanner sc = new Scanner(System.in);
+        tempC = sc.nextInt();
+
+        tempF = (float)9 / 5 * tempC + 32;
+        System.out.printf("%.3f", tempF);
+
+    }
+}
+
